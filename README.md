@@ -1,6 +1,7 @@
 # conio.h
 porting header file to other compilers(c++)
-read me:
- copy this to your folder containing file
- write:
+
+read me:<br>
+ copy this to your folder containing file<br>
+ write:<br>
   #include "conio.h"
