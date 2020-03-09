@@ -165,3 +165,4 @@ gotoxy(x,gety());printf("%s",str);
 }
 
 #endif
+//Aquired from internet
